@@ -1,0 +1,25 @@
+{
+  "name": "handcraft",
+  "version": "1.0.0",
+  "description": "We have been standing on the shoulders of giants for too long and maybe it's a good time to step back a little bit to try to learn the basics again.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EragonJ/handcraft.js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EragonJ/handcraft.js/issues"
+  },
+  "homepage": "https://github.com/EragonJ/handcraft.js#readme",
+  "devDependencies": {
+    "@babel/core": "^7.14.2",
+    "@babel/preset-env": "^7.14.2",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  }
+}
